@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mayuis a bad c++ dev 
+I'm Mayuis a c++ dev 
 
 I like playing games and almost never touch grass💀.
 
