@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Mayuis a bad c++ dev and even worse git user.  
+I'm Mayuis a bad c++ dev 
 
-I like playing **Celeste**🗻, **Hypixel Skyblock** 💀 and some other games.
+I like playing games and almost never touch grass💀.
 
 #### Links
 * [Steam](https://steamcommunity.com/id/mayuis)
