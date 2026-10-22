@@ -2,13 +2,11 @@
 
 I'm Mayuis a c++ dev 
 
-I like playing games and almost never touch grass💀.
+I never touch grass💀.
 
 #### Links
 * [Steam](https://steamcommunity.com/id/mayuis)
 * [Discord](https://discord.com/users/1143269982889848842)
-
-> Did you ever hear the tragedy of... Darth Plagueis the wise?
 
 <!--
 **Mayuis41/Mayuis41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
